@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1826c931-dd9a-4631-aded-e31b2f5bbcd8" name="nkala_remote_test" url="http://nkala.comxa.com">
+        <fileTransfer host="nkala.comxa.com" port="21" rootFolder="/public_html/" username="a2873221">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
